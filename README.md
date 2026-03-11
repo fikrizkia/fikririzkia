@@ -2,14 +2,14 @@
   <img src="Header.png" width="100%" alt="Header Profile">
 </p>
 
-Hello, I'm Fikri ! 👋
+# Hello, I'm Fikri ! 👋
 
 About Me
 Advancing in Electrical Engineering and Automation while channeling creativity through graphic design, photography, and impactful writing.
 
 ---
 
-Tech Stack & Tools
+# Tech Stack & Tools
 <p align="left">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white" />
@@ -22,8 +22,7 @@ Tech Stack & Tools
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-🤝 Connect with me:
-<p align="left">
-<a href="[https://www.linkedin.com/in/fikri-rizkia-prisyabil-a26112269/]" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:abangrizkie7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-</p>
+# 🤝 Connect with me:
+<a href="https://linkedin.com/in/fikri-rizkia-prisyabil" target="blank">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
