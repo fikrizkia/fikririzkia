@@ -27,7 +27,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fikrizkia&theme=tokyonight" alt="GitHub Streak" />
 </p>
 ---
-
 ### 📂 What You’ll Find Inside
 
 | Category | Description |
