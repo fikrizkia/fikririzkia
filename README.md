@@ -17,3 +17,7 @@ Advancing in Electrical Engineering and Automation while channeling creativity t
   <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
   <img src="https://img.shields.io/badge/AutoCAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fikririzkiap&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fikririzkiap&layout=compact&theme=tokyonight" height="170" />
+</p>
