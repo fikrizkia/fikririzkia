@@ -23,6 +23,6 @@ Advancing in Electrical Engineering and Automation while channeling creativity t
 </p>
 ### 🤝 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/Fikri Rizkia Prisyabil" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="[https://www.linkedin.com/in/fikri-rizkia-prisyabil-a26112269/]" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:abangrizkie7@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
 </p>
